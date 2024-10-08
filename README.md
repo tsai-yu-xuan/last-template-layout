@@ -1,4 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/aMHx-K_k)
+頁面所使用之圖片僅作為學習與課堂作業用途，無任何商業目的。所有圖片版權歸原作者所有，若有侵權請聯繫我們以立即處理。
 
 
  [參考網站](https://jo-zu-works.site/)
